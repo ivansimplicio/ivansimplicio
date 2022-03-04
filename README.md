@@ -1,34 +1,31 @@
 ### Olá, me chamo Ivanildo Simplício, mas pode me chamar de Ivan 👋
 
 ##
-
-- Atualmente estou aprendendo desenvolvimento mobile com Ionic, Angular e Firebase
-- Gosto de tecnologias para desenvolvimento de aplicações Back-End, principalmente o Spring Boot
-- No momento, estou concluindo o curso de Ciências da Computação na UEPB
-- E estou contribuindo em um projeto no SPLab - Software Practices Laboratory (UFCG).
+- 👨‍🎓 Bacharelando em Ciências da Computação (UEPB)
+- 💡 Participando em um projeto de R&D no Software Practices Laboratory (SPLab - UFCG)
+- 🚀 Estagiário na Luby Software
+- 📖 Atualmente estudando Adonis V5
 
 ##
-
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  <img align="center" alt="angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">&nbsp
+  <img align="center" alt="spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">&nbsp
+  <img align="center" alt="ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp
+  <img align="center" alt="adonis" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original-wordmark.svg">&nbsp
+  <img align="center" alt="mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp
+  <img align="center" alt="postgresql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp
+  <img align="center" alt="redis" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
 </div>
 
 ##
-
 <div align="center" style="display: inline">
   <a href="https://www.linkedin.com/in/ivanildo-simplício-46675a137/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ivansimplicio97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/_ivansimplicio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
+
+##
+<div align="center" style="display: inline">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivansimplicio&layout=compact&langs_count=6&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ivansimplicio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
