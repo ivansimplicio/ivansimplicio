@@ -1,10 +1,8 @@
 ### Olá, me chamo Ivanildo Simplício, mas pode me chamar de Ivan 👋
 
-##
-- 👨‍🎓 Bacharelando em Ciências da Computação (UEPB)
-- 💡 Participando em um projeto de R&D no Software Practices Laboratory (SPLab - UFCG)
-- 🚀 Estagiário na Luby Software
-- 📖 Atualmente estudando Adonis V5
+- 🎓 Bacharelando em Ciências da Computação (UEPB)
+- 💻 Desenvolvedor Back-End | Spring Boot | AdonisJS
+- 📖 Atualmente estudando NestJS e Ionic 6
 
 ##
 <div align="center" style="display: inline_block"><br>
@@ -27,5 +25,4 @@
 ##
 <div align="center" style="display: inline">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivansimplicio&layout=compact&langs_count=6&theme=radical"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ivansimplicio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
