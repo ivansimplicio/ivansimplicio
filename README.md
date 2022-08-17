@@ -1,8 +1,8 @@
 ### Olá, me chamo Ivanildo Simplício, mas pode me chamar de Ivan 👋
 
 - 🎓 Bacharelando em Ciências da Computação (UEPB)
-- 💻 Desenvolvedor Back-End | Spring Boot | AdonisJS
-- 📖 Atualmente estudando NestJS e Ionic 6
+- 💻 Desenvolvedor Back-End | TypeScript | AdonisJS | NestJS | Java | Spring Boot
+- 📖 Atualmente estudando Clean Architecture e arquitetura de microsserviços
 
 ##
 <div align="center" style="display: inline_block"><br>
