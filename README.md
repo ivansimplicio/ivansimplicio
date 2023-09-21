@@ -1,6 +1,6 @@
 ### Olá, me chamo Ivanildo Simplício, mas pode me chamar de Ivan 🤙🏽
 
-- 🎓 Bacharelando em Ciências da Computação (UEPB)
+- 🎓 Bacharel em Ciências da Computação
 - 💻 Desenvolvedor FullStack na Luby Software, com foco em backend
 
 ##
